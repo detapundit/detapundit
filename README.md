@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @detapundit
-- 👀 I provide training in MySQL DBA operations ...
-- 🌱 Started providing training on Mongo/Cassandra
+- 👀 I provide training in MySQL/Mongo DBA operations ...
+- 🌱 Creating scripts which would help in DBA operations
 - 📫 You can reach out to me - detapundit@gmail.com
 
 <!---
