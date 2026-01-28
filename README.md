@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @detapundit
-- 👀 I provide training in MySQL/Mongo DBA operations ...
-- 🌱 Creating scripts which would help in DBA operations
-- 📫 You can reach out to me - detapundit@gmail.com
+👋 Hey there! I’m @detapundit – your friendly neighborhood DBA.
+👀 I specialize in MySQL, MongoDB, and Postgres DBA operations, making databases run smoother than ever.
+🌱 Passionate about crafting scripts and automations to simplify complex DBA tasks.
+🤖 Exploring the world of AI-powered DB agents – making data smarter, one query at a time.
+📫 Let’s connect: detapundit@gmail.com
 
 <!---
 detapundit/detapundit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
