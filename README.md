@@ -1,6 +1,6 @@
 👋 Hey there! I’m @detapundit – your friendly neighborhood DBA.
 
-👀 I specialize in MySQL, MongoDB, and Postgres DBA operations, making databases run smoother than ever.
+👀 I specialize in MySQL, MongoDB, Cassandra and Postgres DBA operations, making databases run smoother than ever.
 
 🌱 Passionate about crafting scripts and automations to simplify complex DBA tasks.
 
